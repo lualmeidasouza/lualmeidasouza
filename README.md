@@ -6,10 +6,20 @@
 <div>
 
 <div style="display: inline_block"><br>
+  Linguagens que utilizei profissionalmente:
   <img align="center" alt="Lu-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Lu-Php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Lu-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-                                                                                                                                                     
+  <img align="center" alt="Lu-JSF" height="30" width="40" src="
+  <img align="center" alt="Lu-ColdFusion" height="30" width="40" src="
+  <img align="center" alt="Lu-ASP" height="30" width="40" src="
+  <img align="center" alt="Lu-VisualBasic" height="30" width="40" src="
+  <img align="center" alt="Lu-VBA" height="30" width="40" src="
+  <img align="center" alt="Lu-Dbase" height="30" width="40" src="
+
+  Linguagens que utilizei no meio acadêmico:
+  <img align="center" alt="Lu-Clipper" height="30" width="40" src="
+  <img align="center" alt="Lu-Cobol" height="30" width="40" src="
 </div>
   
   ##
