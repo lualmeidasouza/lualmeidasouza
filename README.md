@@ -22,7 +22,7 @@
   
   <a href="https://instagram.com/silveira.lucianaa" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   
-  <a href="https://twitter.com/lualmeidasouza2" target="_blank"><img src="https://github.com/lualmeidasouza/icones/blob/main/twitter.jfif" target="_blank"></a> 
+  <a href="https://twitter.com/lualmeidasouza2" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter" target="_blank"></a> 
   
   <a href = "mailto:lucianaalsouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
