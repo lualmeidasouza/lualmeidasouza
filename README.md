@@ -1,4 +1,4 @@
-## Oi! Me chamo Luciana Almeida, programadora apaixonada por tecnologia!
+## Oi! Se você chegou até aqui é porque gosta ou se interessa por programação. 
 <div align="center">
   <a href="https://github.com/lualmeidasouza">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lualmeidasouza&show_icons=true&include_all_commits=true&count_private=true"/>
