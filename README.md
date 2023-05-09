@@ -1,4 +1,4 @@
-## Olá! Sou Luciana Almeida. Seja bem vindo(a) ao meu portfólio! 
+## Olá! Sou Luciana. Seja bem vindo(a) ao meu portfólio! 
 <div align="center">
   <a href="https://github.com/lualmeidasouza">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lualmeidasouza&show_icons=true&include_all_commits=true&count_private=true"/>
