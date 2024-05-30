@@ -2,7 +2,7 @@
 
 ## Um pouco da minha história... 
 
-Iniciei profissionalmente aos 16 anos de idade (na empresa em que trabalho até hoje), desenvolvendo client-server e logo migrei para o desenvolvimento web, onde utilizei ASP, ColdFusion, Java, JSF, PHP e Python. Tenho uma predileção particular por Python devido à sua versatilidade e simplicidade.  
+Iniciei profissionalmente aos 16 anos de idade (na empresa em que trabalho até hoje), desenvolvendo client-server e logo migrei para o desenvolvimento web, onde utilizei ASP, ColdFusion, Java, PHP e Python. Tenho uma predileção particular por Python devido à sua versatilidade e simplicidade.  
 
 Minha formação: Bacharel em Ciência da Computação com MBA em Qualidade de Sistemas.
 
