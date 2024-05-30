@@ -1,14 +1,17 @@
 ## Olá! Sou Luciana. Seja bem vindo(a) ao meu portfólio! 
 
-<div bold>Um pouco da minha história: </div> iniciei profissionalmente aos 16 anos de idade (na empresa em que trabalho até hoje), desenvolvendo client-server e logo migrei para o desenvolvimento web, onde utilizei ASP, ColdFusion, Java, JSF, PHP e Python. Tenho uma predileção particular por Python devido à sua versatilidade e simplicidade.  
+Um pouco da minha história... Iniciei profissionalmente aos 16 anos de idade (na empresa em que trabalho até hoje), desenvolvendo client-server e logo migrei para o desenvolvimento web, onde utilizei ASP, ColdFusion, Java, JSF, PHP e Python. Tenho uma predileção particular por Python devido à sua versatilidade e simplicidade.  
 
 Minha formação: Bacharel em Ciência da Computação com MBA em Qualidade de Sistemas.
 
 Atualmente, atuo como Engenheira de Dados, projetando e implementando soluções eficientes para resolver problemas complexos. Embarquei em projetos desafiadores, incluindo webscraping para coleta de dados públicos em redes sociais, para análise de sentimentos ref. a produtos e serviços, a fim de extrair insights valiosos a partir de grandes volumes de informações de dados não estruturados.
 
-Fora do mundo da tecnologia, procuro encontrar equilíbrio nas minhas paixões, que incluem música, caminhadas ao ar livre, momentos de leitura, sessões de cinema e, acima de tudo, desfrutar de momentos preciosos com minha família e meu cachorro.
+Fora do mundo da tecnologia, procuro encontrar equilíbrio nas minhas paixões, que incluem música, caminhadas ao ar livre, momentos de leitura, sessões de cinema e, acima de tudo, desfrutar de momentos preciosos com minha família e meu cachorro. Sou casada e mãe de dois filhos lindos!
+
+Ter seguido desde muito nova o rumo de uma carreira profissional sempre me fez acumular funções e buscar por novas experiências.
 
 Uma filosofia simples, mas poderosa: acredito que a simplicidade é a chave para superar desafios na programação e na vida em geral. A fé em Deus e gratidão pela vida permeiam minhas ações diárias, inspirando-me a enfrentar cada desafio com coragem e determinação.
+
 
 <div align="center">
   <a href="https://github.com/lualmeidasouza">  
