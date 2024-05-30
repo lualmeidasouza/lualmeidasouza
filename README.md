@@ -1,4 +1,15 @@
 ## Olá! Sou Luciana. Seja bem vindo(a) ao meu portfólio! 
+
+Apaixonada por tecnologia e inovação, comecei minha jornada profissional na programação aos 16 anos de idade, desenvolvendo client-server e logo migrei para o desenvolvimento web, onde utilizei ASP, ColdFusion, Java, JSF, PHP e Python. Tenho uma predileção particular por Python devido à sua versatilidade e simplicidade.  
+
+Minha formação: Bacharel em Ciência da Computação com MBA em Qualidade de Sistemas.
+
+Atualmente, atuo como Engenheira de Dados, projetando e implementando soluções eficientes para resolver problemas complexos. Embarquei em projetos desafiadores, incluindo webscraping para coleta de dados públicos em redes sociais, para análise de sentimentos ref. a produtos e serviços, a fim de extrair insights valiosos a partir de grandes volumes de informações de dados não estruturados.
+
+Fora do mundo da tecnologia, procuro encontrar equilíbrio nas minhas paixões, que incluem música, caminhadas ao ar livre, momentos de leitura, sessões de cinema e, acima de tudo, desfrutar de momentos preciosos com minha família e meu cachorro.
+
+Uma filosofia simples, mas poderosa: acredito que a simplicidade é a chave para superar desafios na programação e na vida em geral. A fé em Deus e gratidão pela vida permeiam minhas ações diárias, inspirando-me a enfrentar cada desafio com coragem e determinação.
+
 <div align="center">
   <a href="https://github.com/lualmeidasouza">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lualmeidasouza&show_icons=true&include_all_commits=true&count_private=true"/>
