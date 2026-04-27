@@ -34,7 +34,7 @@ Uma filosofia simples, mas poderosa: acredito que a simplicidade é a chave para
  
 <div>
   
-  <a href="https://www.youtube.com/channel/UC9wazHaBAcxN0hSXJ11ANAA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <a href="https://instagram.com/lucianadatalab" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:lucianaalsouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UC9wazHaBAcxN0hSXJ11ANAA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <a href="https://instagram.com/data.lab.academy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:lucianaalsouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/lualmeidasouza/lualmeidasouza/blob/output/github-contribution-grid-snake.svg) 
 
